@@ -29,4 +29,6 @@ public class UsuarioController {
 		return ResponseEntity.ok().body(usuarioService.criarUsuario(usuario));
 	}
 	
+	
+	
 }
